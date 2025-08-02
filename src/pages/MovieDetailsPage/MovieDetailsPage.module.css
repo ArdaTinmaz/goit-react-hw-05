@@ -1,0 +1,67 @@
+.container {
+  padding: 80px 20px 20px 10px;
+  color: #000;
+}
+
+.topSection {
+  background-color: white;
+  padding-bottom: 10px;
+}
+
+.goBack {
+  display: inline-block;
+  margin-bottom: 20px;
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+
+.details {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  color: #000;
+}
+
+.poster {
+  border-radius: 5px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.info {
+  flex: 1;
+  color: #000;
+}
+
+.info h2,
+.info h3,
+.info p {
+  color: #000;
+}
+
+.additional {
+  margin-top: 20px;
+  color: #000;
+}
+
+.additional ul {
+  list-style: none;
+  padding: 0;
+}
+
+.additional li {
+  margin-bottom: 5px;
+}
+
+.additional a {
+  text-decoration: none;
+  color: #000;
+}
+
+.additional a:hover {
+  text-decoration: underline;
+}
+
+.bottomSection {
+  margin-top: 20px;
+}
